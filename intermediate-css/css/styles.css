@@ -1,3 +1,26 @@
 body{
     background-color: #D5F5E3;
 }
+
+/* Container styles */
+.display-box{
+    border-color: #CACFD2;
+    border-style: dashed;
+    border-width: 3px;
+    height: 300px;
+    margin-bottom: 6px;
+    position: relative;
+    width: 300px;
+    text-align: center;
+}
+
+/* Image Styles */
+.cloud{
+    position: absolute;
+    width: 20%;
+}
+
+/* Text Styles */
+.text{
+    margin: 0;
+}

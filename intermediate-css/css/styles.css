@@ -1,5 +1,6 @@
 body{
     background-color: #D5F5E3;
+    font-family: verdana, sans-serif;
 }
 
 /* Container styles */
@@ -21,6 +22,11 @@ body{
 }
 
 /* Text Styles */
-.text{
+h1{
+    font-family: 'Sacramento', serif;
+    margin: 0;
+}
+p{
+    font-family: 'Merriweather', serif;
     margin: 0;
 }
